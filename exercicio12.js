@@ -1,0 +1,1 @@
+// Crie um array de objetos representando produtos (nome, preço) e mostre o nome do produto mais caro
